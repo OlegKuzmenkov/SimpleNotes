@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleNotes</string>
+    <string name="crime_title_hint">Enter a title for the note</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="crime_good_date">Здесь будет супер дата</string>
+</resources>
